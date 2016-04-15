@@ -15,5 +15,6 @@
 1. First you need to install gorilla websocket library because go-chat depends on it: go get github.com/gorilla/websocket. This command can be run anywhere on the terminal and installs the library to the directory ~/Documents/Development/go/src/github.com/gorilla/websocket
 2. Build the chat client: go install github.com/mebobby2/go-chat. This creates an executable in the directory  ~/Documents/Development/go/bin
 3. Run the chat client by typing this anywhere in the terminal: go-chat
+4. Open two browsers at: http://127.0.0.1:8080, and chat away
 
 
