@@ -17,4 +17,8 @@
 3. Run the chat client by typing this anywhere in the terminal: go-chat
 4. Open two browsers at: http://127.0.0.1:8080, and chat away
 
+## References
+http://www.jonathan-petitcolas.com/2015/01/27/playing-with-websockets-in-go.html
+https://gary.burd.info/go-websocket-chat/
+
 
